@@ -1,2 +1,2 @@
-# The_C_programming_Language
+# The C programming Language
 Exercícios do livro "The C programming language"
